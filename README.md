@@ -43,6 +43,9 @@ AI 현재 상태 진단
 - 추천 이유 제공
 - 실행 체크리스트 생성
 - 진행 상태 기록
+- 상황별 AI 리허설
+- 첫 문장 및 질문 리스트 생성
+- 현실 미션 제안
 
 ## Target Users
 
@@ -58,13 +61,32 @@ AI 현재 상태 진단
 - 지역 기반 지원 서비스를 쉽게 찾고 싶은 사용자
 - 디지털 정보 탐색이 어려운 사용자
 
+## MVP Direction
+
+AI Opportunity OS는 기회를 추천하고, **AI 인생 리허설룸**은 그 기회를 실제 행동으로 옮기기 전 안전하게 연습하도록 돕습니다.
+
+```text
+기회 추천
+↓
+막히는 지점 선택
+↓
+AI 역할극 리허설
+↓
+첫 문장/질문 리스트 생성
+↓
+현실 미션
+↓
+실행 기록
+```
+
 ## Vision
 
 이번 해커톤에서는 쉬었음 청년과 노인을 대상으로 MVP를 개발합니다. 하지만 동일한 구조를 적용하면 경력단절 여성, 장애인, 청소년, 은퇴자, 지방 거주자 등 다양한 계층으로 확장할 수 있습니다.
 
-AI Opportunity OS의 목표는 모든 사람에게 다음 기회를 연결하는 것입니다.
+AI Opportunity OS의 목표는 모든 사람에게 다음 기회를 연결하고, 그 기회를 실제로 잡을 수 있게 돕는 것입니다.
 
 ## Documents
 
 - [Project Brief](docs/project-brief.md)
 - [MVP Plan](docs/mvp-plan.md)
+- [AI 인생 리허설룸 Concept](docs/rehearsal-room-concept.md)
